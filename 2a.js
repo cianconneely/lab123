@@ -1,4 +1,4 @@
-let a = function Hello(){
+let a = ()=>{
     console.log("Data Representation & Quering");
 }
 
